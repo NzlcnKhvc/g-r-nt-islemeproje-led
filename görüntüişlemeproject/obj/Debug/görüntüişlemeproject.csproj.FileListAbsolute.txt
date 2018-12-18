@@ -1,0 +1,53 @@
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\görüntüişlemeproject.exe.config
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\görüntüişlemeproject.exe
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\görüntüişlemeproject.pdb
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Controls.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Fuzzy.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Genetic.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Imaging.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.MachineLearning.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Math.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Neuro.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Vision.dll
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\IPPrototyper.exe
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Controls.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Fuzzy.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Genetic.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Imaging.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.MachineLearning.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Math.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Neuro.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\AForge.Vision.xml
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\görüntüişlemeproject.csproj.GenerateResource.Cache
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\görüntüişlemeproject.exe
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\görüntüişlemeproject.pdb
+C:\Users\Nazlıcan\Desktop\kontrolserial\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\görüntüişlemeproject.csprojResolveAssemblyReference.cache
+C:\Users\Nazlıcan\Desktop\led yakma\görüntüişlemeproject\görüntüişlemeproject\bin\Debug\görüntüişlemeproject.exe.config
+C:\Users\Nazlıcan\Desktop\led yakma\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\görüntüişlemeproject.exe
+C:\Users\Nazlıcan\Desktop\led yakma\görüntüişlemeproject\görüntüişlemeproject\obj\Debug\görüntüişlemeproject.pdb
